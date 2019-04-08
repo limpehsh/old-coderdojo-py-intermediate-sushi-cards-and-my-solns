@@ -1,4 +1,4 @@
-# old-coderdojo-py-sushi-cards
+# old-coderdojo-py-intermediate-sushi-cards-and-my-solns
 
 Hosting the old Python Intermediate sushi cards by CoderDojo and my own solutions to cards 4, 5 and 6 which are not available anymore.
 
